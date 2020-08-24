@@ -1,7 +1,7 @@
 # UV-C Light Meter
 Low Cost UV-C Light Meter with Dual Sensor Input and Data Logging
 
-![Test Image](Images/IMG_20200516_191059.jpg)
+![Image](Images/IMG_20200516_191059.jpg)
 
 ## Background
 UV-C based devices are being widely developed on comercial and hobby levels in response to COVID-19. As a result,
